@@ -1,6 +1,7 @@
 # ChatBot
 
-A Basic chatbot using API.ai
+A Basic chatbot using API.ai 
+This bot will understand the greetings and respond/greet you back
 
 ## Motivation
 
